@@ -1,5 +1,5 @@
 import Image from 'next/image';
-import Nav from '@/app/components/nav'
+import Nav from '';
 
 export default function Home() {
   return (
@@ -12,7 +12,7 @@ export default function Home() {
       </nav>
 
       <header className="text-center mt-20 mb-10">
-        <h1 className="text-4xl font-bold">Welcome to My Website</h1>
+        <h1 className="text-4xl font-bold">blog</h1>
         <p className="text-lg text-gray-600 dark:text-gray-400 mt-2">Software Engineer | Web Developer | System Developer</p>
       </header>
 
